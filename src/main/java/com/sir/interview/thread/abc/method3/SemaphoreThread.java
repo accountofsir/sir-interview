@@ -1,4 +1,4 @@
-package com.sir.interview.thread.method3;
+package com.sir.interview.thread.abc.method3;
 
 import java.util.concurrent.Semaphore;
 

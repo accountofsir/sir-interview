@@ -1,4 +1,4 @@
-package com.sir.interview.thread.method2;
+package com.sir.interview.thread.abc.method2;
 
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;

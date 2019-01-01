@@ -1,4 +1,4 @@
-package com.sir.interview.thread.method1;
+package com.sir.interview.thread.abc.method1;
 
 import java.util.concurrent.atomic.AtomicInteger;
 import java.util.logging.Logger;
